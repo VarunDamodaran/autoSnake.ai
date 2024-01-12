@@ -1,2 +1,2 @@
 # autoSnake.ai
-[![Timelapse Video](pic_1.png)]([video_url](https://youtu.be/C9H8VnVa6t4)
+[![Timelapse Video](pic_1.png)]([](https://youtu.be/C9H8VnVa6t4)
