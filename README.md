@@ -10,7 +10,7 @@ This project implements a classic Snake game where the snake learns to play opti
 
 ## Introduction
 
-The Snake game is a classic arcade game where the player controls a snake to eat food and grow longer while avoiding collisions with the walls and its own tail. In this project, we employ the Deep Q-Network (DQN) technique to teach the snake to play the game optimally.
+The Snake game is a classic arcade game where the player controls a snake to eat food and grow longer while avoiding collisions with the walls and its own tail. In this project, we employ the Deep-Q-Network (DQN) technique to teach the snake to play the game optimally.
 
 ## Features
 
